@@ -51,12 +51,12 @@ Divit
 
 
 ![image alt](https://github.com/thisisdivit/WebDevCohort/blob/b51683c9aa10ccc44bdbff59d059275ccb89b0df/Cursor%201.png)
-![image alt] (https://github.com/thisisdivit/WebDevCohort/blob/b51683c9aa10ccc44bdbff59d059275ccb89b0df/Cursor%202.png)
-![image alt] (https://github.com/thisisdivit/WebDevCohort/blob/b51683c9aa10ccc44bdbff59d059275ccb89b0df/Cursor%203.png)
-![image alt] (https://github.com/thisisdivit/WebDevCohort/blob/b51683c9aa10ccc44bdbff59d059275ccb89b0df/Cursor%204.png)
-![image alt] (https://github.com/thisisdivit/WebDevCohort/blob/b51683c9aa10ccc44bdbff59d059275ccb89b0df/Cursor%205.png)
-![image alt] (https://github.com/thisisdivit/WebDevCohort/blob/b51683c9aa10ccc44bdbff59d059275ccb89b0df/Cursor%206.png)
-![image alt] (https://github.com/thisisdivit/WebDevCohort/blob/b51683c9aa10ccc44bdbff59d059275ccb89b0df/Cursor%207.png)
+![image alt](https://github.com/thisisdivit/WebDevCohort/blob/b51683c9aa10ccc44bdbff59d059275ccb89b0df/Cursor%202.png)
+![image alt](https://github.com/thisisdivit/WebDevCohort/blob/b51683c9aa10ccc44bdbff59d059275ccb89b0df/Cursor%203.png)
+![image alt](https://github.com/thisisdivit/WebDevCohort/blob/b51683c9aa10ccc44bdbff59d059275ccb89b0df/Cursor%204.png)
+![image alt](https://github.com/thisisdivit/WebDevCohort/blob/b51683c9aa10ccc44bdbff59d059275ccb89b0df/Cursor%205.png)
+![image alt](https://github.com/thisisdivit/WebDevCohort/blob/b51683c9aa10ccc44bdbff59d059275ccb89b0df/Cursor%206.png)
+![image alt](https://github.com/thisisdivit/WebDevCohort/blob/b51683c9aa10ccc44bdbff59d059275ccb89b0df/Cursor%207.png)
 
 
 
