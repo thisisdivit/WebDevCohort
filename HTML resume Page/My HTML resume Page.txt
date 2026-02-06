@@ -1,0 +1,24 @@
+<html>
+<head>
+    <title>
+        My HTML resume Page
+    </title>
+</head>
+<body>
+    <H1> Divit</H1>
+    <p>Student/ Learning Web Developing/ Tech Lover/ </p>
+    <H1>About Me</H1>
+    <p>My name is Divit. I am a 8th class student. I am learning how to make websites. I am learning programming languages like Javascript, HTML, CSS.</p>
+<H1>Skills</H1>
+<p>HTML</p>
+<p>CSS</p>
+<p>Computer Basic </p>
+<p>Internet and Web Browsing</p>
+<H1>Education</H1>
+<p>Class 8th student</p>
+<p>School Student</p>
+<H1>Contact</H1>
+<p>Email-  thisisdivit@gmail.com</p>
+<p>Location-  Narnaul, Haryana, India</p>
+</body>
+</html>
